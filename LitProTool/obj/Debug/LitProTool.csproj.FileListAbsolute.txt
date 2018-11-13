@@ -8,4 +8,3 @@ E:\workspace-for-work\LitProTool\LitProTool\LitProTool\obj\Debug\LitProTool.cspr
 E:\workspace-for-work\LitProTool\LitProTool\LitProTool\obj\Debug\LitProTool.exe
 E:\workspace-for-work\LitProTool\LitProTool\LitProTool\obj\Debug\LitProTool.pdb
 E:\workspace-for-work\LitProTool\LitProTool\LitProTool\obj\Debug\LitProTool.Form1.resources
-E:\workspace-for-work\LitProTool\LitProTool\LitProTool\obj\Debug\LitProTool.Form2.resources
