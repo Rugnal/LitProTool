@@ -1,2 +1,11 @@
 E:\workspace-for-work\LitProTool\LitProTool\LitProTool\LitProTool\bin\Debug\LitProTool.exe.config
 E:\workspace-for-work\LitProTool\LitProTool\LitProTool\bin\Debug\LitProTool.exe.config
+E:\workspace-for-work\LitProTool\LitProTool\LitProTool\bin\Debug\LitProTool.exe
+E:\workspace-for-work\LitProTool\LitProTool\LitProTool\bin\Debug\LitProTool.pdb
+E:\workspace-for-work\LitProTool\LitProTool\LitProTool\obj\Debug\LitProTool.csprojResolveAssemblyReference.cache
+E:\workspace-for-work\LitProTool\LitProTool\LitProTool\obj\Debug\LitProTool.Properties.Resources.resources
+E:\workspace-for-work\LitProTool\LitProTool\LitProTool\obj\Debug\LitProTool.csproj.GenerateResource.Cache
+E:\workspace-for-work\LitProTool\LitProTool\LitProTool\obj\Debug\LitProTool.exe
+E:\workspace-for-work\LitProTool\LitProTool\LitProTool\obj\Debug\LitProTool.pdb
+E:\workspace-for-work\LitProTool\LitProTool\LitProTool\obj\Debug\LitProTool.Form1.resources
+E:\workspace-for-work\LitProTool\LitProTool\LitProTool\obj\Debug\LitProTool.Form2.resources
